@@ -1,0 +1,1 @@
+Basic web page, following a design from the Odin Project CSS foundations course
